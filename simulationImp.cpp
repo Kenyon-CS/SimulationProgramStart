@@ -4,7 +4,7 @@
 #include <string>
 #include <cstdlib>
 
-#include "Simulation.h"
+#include "simulation.h"
 #include "queueAsArray.h"
 
 using namespace std;
