@@ -10,7 +10,7 @@ CXXFLAGS = -std=c++11 -Wall -Wextra -pedantic
 TARGET = Simulation
 
 # Source files
-SRCS = simulationImp.cpp,testSimulationProg.cpp
+SRCS = simulationImp.cpp testSimulationProg.cpp
 
 # Default rule to build the target
 all: $(TARGET)
